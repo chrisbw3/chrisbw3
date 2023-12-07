@@ -1,16 +1,20 @@
-### Hi there 👋
+# Hi there 👋
 
-<!--
-**chrisbw3/chrisbw3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 😄 A Little Bit About Me 😄
+
+
+💼 Current Business Analyst of 2 years in the Logistics/Packaging industry
+
+📖 Self-taught in SQL, Python and Tableau
+
+💻 3 Years of Experience with Excel
+
+📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/christian-wl-gentry/)
+
+### Most Recent Project
+
+🍺Gulp🍺 Click [HERE](https://github.com/chrisbw3/gulp) for repository
+
+
